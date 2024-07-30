@@ -1,0 +1,48 @@
+Steps to step-up Google Cloud Platform
+
+1. Go to console.google.com
+
+	a. Here a pop-up box will appear.
+	b. Select a gmail account, by clickind on Switch Account / create a gmail account, to access the GCP
+	c. Select the country.
+	d. After selecting both, check the box to agree the terms & conditions.
+	e. Click on agree & Continue button, to goto next page.
+
+2. In this page, the main title is "Welcome, <Name given in the Gmail>".
+
+	a. Below this welcome message, click on the "Create or Select project", a new pop-up box named "Select Box" will appear.
+	b. Click on the "New project" at the top right corner, this will open a new page.
+	c. Enter a project name and click on "Create" button.
+	d. Now the project is created and a welcome page of the project will appear.
+
+3. To work with this project, click on "dashboard" below this welcome message.
+4. Eventhough GCP has a free trial, there is a 'Free Trial prepayment of ₹1,000'. Following these steps only gives a access of 24hrs of free trial.
+5. To extend the free trial,click on the "Make Payment" on the top right corner of the page.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,. 
